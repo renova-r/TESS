@@ -1,8 +1,7 @@
-citHeader("To cite TESS in a publication use:")
-
-citEntry(entry="Article",
+bibentry(bibtype="Article",
+        mheader = "To cite TESS in a publication use:",
 	title = "Fast simulation of reconstructed phylogenies under global time-dependent birth--death processes",
-        author = personList(as.person("S. H{\"o}hna")),
+        author = c(as.person("S. H{\"o}hna")),
 	journal = "Bioinformatics",
   	year = "2013",
 	volume = "29",

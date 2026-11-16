@@ -42,13 +42,13 @@ This function generates visual summaries of multi-chain MCMC diagnostics for the
 The argument parameters specifies the aspects of the model to summarize.
 Valid options are:
   \itemize{
-    \item{speciation rates: }{Plots the interval-specific speciation rates.}
-    \item{speciation shift times: }{Plots the posterior probability of at least one speciation-rate shift for each interval.}
-    \item{extinction rates: }{Plots the interval-specific extinction rates.}
-    \item{extinction shift times: }{Plots the posterior probability of at least one extinction-rate shift for each interval.}
-    \item{net-diversification rates}{Plots the interval-specific net-diversification rates.}
-    \item{relative-extinction rates}{Plots the interval-specific relative-extinction rates.}
-    \item{mass extinction times: }{Plots the posterior probability of at least one mass-extinction event for each interval.}
+    \item speciation rates: Plots the interval-specific speciation rates.
+    \item speciation shift times: Plots the posterior probability of at least one speciation-rate shift for each interval.
+    \item extinction rates: Plots the interval-specific extinction rates.
+    \item extinction shift times: Plots the posterior probability of at least one extinction-rate shift for each interval.
+    \item net-diversification rates: Plots the interval-specific net-diversification rates.
+    \item relative-extinction rates: Plots the interval-specific relative-extinction rates.
+    \item mass extinction times: Plots the posterior probability of at least one mass-extinction event for each interval.
   }
 }
 

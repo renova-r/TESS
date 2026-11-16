@@ -44,16 +44,16 @@ This function generates visual summaries of the CoMET analysis in the output obj
 The argument fig.types specifies the aspects of the model to summarize.
 Valid options are:
   \itemize{
-    \item{speciation rates: }{Plots the interval-specific speciation rates.}
-    \item{speciation shift times: }{Plots the posterior probability of at least one speciation-rate shift for each interval.}
-    \item{speciation Bayes factors: }{Plots the Bayes factor support for at least one speciation-rate shift for each interval (as 2 ln BF).}
-    \item{extinction rates: }{Plots the interval-specific extinction rates.}
-    \item{extinction shift times: }{Plots the posterior probability of at least one extinction-rate shift for each interval.}
-    \item{extinction Bayes factors: }{Plots the Bayes factor support for at least one extinction-rate shift for each interval (as 2 ln BF).}
-    \item{net-diversification rates}{Plots the interval-specific net-diversification rates.}
-    \item{relative-extinction rates}{Plots the interval-specific relative-extinction rates.}
-    \item{mass extinction times: }{Plots the posterior probability of at least one mass-extinction event for each interval.}
-    \item{mass extinction Bayes factors: }{Plots the Bayes factor support for at least one mass-extinction event for each interval (as 2 ln BF).}
+    \item speciation rates: Plots the interval-specific speciation rates.
+    \item speciation shift times: Plots the posterior probability of at least one speciation-rate shift for each interval.
+    \item speciation Bayes factors: Plots the Bayes factor support for at least one speciation-rate shift for each interval (as 2 ln BF).
+    \item extinction rates: Plots the interval-specific extinction rates.
+    \item extinction shift times: Plots the posterior probability of at least one extinction-rate shift for each interval.
+    \item extinction Bayes factors: Plots the Bayes factor support for at least one extinction-rate shift for each interval (as 2 ln BF).
+    \item net-diversification rates: Plots the interval-specific net-diversification rates.
+    \item relative-extinction rates: Plots the interval-specific relative-extinction rates.
+    \item mass extinction times: Plots the posterior probability of at least one mass-extinction event for each interval.
+    \item mass extinction Bayes factors: Plots the Bayes factor support for at least one mass-extinction event for each interval (as 2 ln BF).
   }
 
 

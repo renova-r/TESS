@@ -10,7 +10,7 @@ data(mammalia)
 \format{
   The phylogeny is stored as an object of class \code{"phylo"}.
   The structure is described in the help page of the function
-  \code{\link{read.tree}} of the package \code{\link{ape}}.
+  \code{\link[ape]{read.tree}} of the package \code{\link[ape]{ape}}.
 }
 \source{
    Meredith, R. et al. (2011): Impacts of the cretaceous terrestrial revolution and kpg extinction on mammal diversification. Science, 334:521-524

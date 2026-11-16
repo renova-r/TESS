@@ -10,7 +10,7 @@ data(conifers)
 \format{
   The phylogeny is stored as an object of class \code{"phylo"}.
   The structure is described in the help page of the function
-  \code{\link{read.tree}} of the package \code{\link{ape}}.
+  \code{\link[ape]{read.tree}} of the package \code{\link[ape]{ape}}.
 }
 \source{
   Leslie, A. B., J. M. Beaulieu, H. S. Rai, P. R. Crane, M. J. Donoghue, and S. Mathews. 2012.  Hemisphere-scale differences in conifer evolutionary dynamics. Proceedings of the National Academy of Sciences 109:16217-16221.
